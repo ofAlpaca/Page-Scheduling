@@ -15,7 +15,6 @@ In this project, I'm going to demostrate the six different page management metho
 3
 123412512345
 ```
-The integer on the very top-left is the method of scheduling we are going to do.
 - The first integer at the top left cornor means the number of the page frames.
 - The second digit string means the sequence of the incoming pages, from left to right.
 ### Output1.txt
