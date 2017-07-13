@@ -15,7 +15,7 @@ In this project, I'm going to demostrate the six different page management metho
 3
 123412512345
 ```
-- The first integer at the top left cornor means the number of the page frames.
+- The first integer at the top left corner means the number of the page frames in the memory.
 - The second digit string means the sequence of the incoming pages, from left to right.
 ### Output1.txt
 ```
